@@ -17,16 +17,16 @@ Redirects to Google Plus page
 
 ### Telegram Chat
 
-https://t.me/spbpython
+[@spbpython](https://t.me/spbpython)
 
 ### Twitter
 
-https://twitter.com/spbpython
+[@spbpython](https://twitter.com/spbpython)
 
 ### Facebook
 
-https://www.facebook.com/spbpython/
+[SPb Python on Facebook](https://www.facebook.com/spbpython/)
 
 ### Google Plus page
 
-https://plus.google.com/communities/107328406287050920928
+[SPb Python on Google+](https://plus.google.com/communities/107328406287050920928)

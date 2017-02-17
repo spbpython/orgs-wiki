@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# SPb Python Orgs Wiki
 
-You can use the [editor on GitHub](https://github.com/spbpython/orgs-wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Orgs list
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* @lig — main coordinator
+* @nazarov-tech — community manager
+* @delimitry — drink-up host
+* @nonamenix — webdev
 
-### Markdown
+## Community resources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Website spbpython.guru
 
-```markdown
-Syntax highlighted code block
+*Undergoing development*
 
-# Header 1
-## Header 2
-### Header 3
+Redirects to Google Plus page
 
-- Bulleted
-- List
+### Telegram Chat
 
-1. Numbered
-2. List
+https://t.me/spbpython
 
-**Bold** and _Italic_ and `Code` text
+### Twitter
 
-[Link](url) and ![Image](src)
-```
+https://twitter.com/spbpython
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Facebook
 
-### Jekyll Themes
+https://www.facebook.com/spbpython/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spbpython/orgs-wiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Google Plus page
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://plus.google.com/communities/107328406287050920928

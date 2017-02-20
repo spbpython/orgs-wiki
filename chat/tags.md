@@ -13,4 +13,5 @@
 * **#deck** — link to a slides or a slides file itself from one of the community meetups.
 * **#photo** — link to a photo or photo itself from one of the community meetups.
 * **#job** — link to (or a message) to a job posting.
+* **#community** — link to a some other pythonic community (be it podcast, twitter, subreddit or anything else).
 * **#cv** — link to a memeber's CV or a message asking for a job.

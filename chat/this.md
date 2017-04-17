@@ -7,6 +7,7 @@
 - Editing the message is better than correcting via another one.
 - Staying on topic is better than offtopic.
 - Good topic is worth discussing though.
+- Unless it is started by a link to Habrahabr.
 - Politeness counts.
 - Bad mood is not a good reason to break the rules.
 - Don't ask to ask just ask.

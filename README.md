@@ -21,6 +21,8 @@ Redirects to Google Plus page
 
 [Chat tags policy](/chat/tags.md)
 
+[The Zen of SPb Python Chat](/chat/this.md)
+
 ### Twitter
 
 [@spbpython](https://twitter.com/spbpython)

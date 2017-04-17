@@ -1,4 +1,5 @@
-# The Zen of SPb Python Chat *(Inspired by "The Zen of Python, by Tim Peters")*
+# The Zen of SPb Python Chat
+*(Inspired by "The Zen of Python, by Tim Peters")*
 
 - Short inroduction of yourself is better than "hello".
 - Link to gist is better than source paste.

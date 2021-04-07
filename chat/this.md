@@ -1,28 +1,16 @@
-# Зэн SPb Python чата
-*(Навеян "The Zen of Python, by Tim Peters")*
+# The Zen of SPb Python Chat
+*(Inspired by "The Zen of Python, by Tim Peters")*
 
-- Коротко представиться лучше, чем просто "Привет".
-
-- Ссылка на gist лучше, чем скопировать код из буфера обмена.
-
-- Длинное сообщение лучше, чем много коротких.
-
-- Ошибку лучше исправить отредактировав сообщение, чем написать ещё одно с исправлениями.
-
-- Говорить по теме лучше, чем говорить не по теме.
-
-- Некоторые темы всё же достойны обсуждения.
-
-- Кроме тех, обсуждение которых начинается со ссылки на Habrahabr.
-
-- Вежливость ценится.
-
-- Плохое настроение не оправдывает нарушение правил.
-
-- Не проси разрешения спросить, спрашивай сразу!
-
-- Текстовые сообщение лучше, чем голосовые сообщения.
-
-- Если это не голосовая конференция.
-
-- Репозиторий на гит это шикарная идея -- давайте делать больше репозиториев!
+- Short introduction of yourself is better than "hello".
+- Link to gist is better than source paste.
+- One long message is better than many short.
+- Editing the message is better than correcting via another one.
+- Staying on topic is better than offtopic.
+- Good topic is worth discussing though.
+- Unless it is started by a link to Habrahabr.
+- Politeness counts.
+- Bad mood is not a good reason to break the rules.
+- Don't ask to ask just ask.
+- Text message is better than voice message.
+- Unless it is voice conference.
+- Git repos are one honking great idea -- let's do more of those!
